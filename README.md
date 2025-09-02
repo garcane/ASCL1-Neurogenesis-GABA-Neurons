@@ -87,7 +87,7 @@ The project required extensive preprocessing of genomic data in Galaxy Server:
 
 ## Authors
 
-- [@gappeah](https://github.com/gappeah)
+- [@garcane](https://github.com/garcane)
 
 
 ## Acknowledgements
